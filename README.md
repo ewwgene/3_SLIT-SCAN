@@ -1,10 +1,7 @@
 
 ## Slit-Scan_01_ALGORITHM. _WINTER-2019.12._  
-![Slit-Scan_01_ALGORITHM](/100.jpg)<a href="https://ewwgene.github.io/Slit-Scan/110.jpg"><img src="https://ewwgene.github.io/Slit-Scan/110.jpg" height="100"></a> <a href="https://ewwgene.github.io/Slit-Scan/111.jpg"><img src="/Slit-Scan/111.jpg" height="100"></a> <a href="https://ewwgene.github.io/Slit-Scan/113.jpg"><img src="/Slit-Scan/113.jpg" height="100"></a> <a href="/115.jpg"><img src="/115.jpg" height="100"></a> 
+![Slit-Scan_01_ALGORITHM](/projects/Slit-Scan_01_ALGORITHM/100.jpg)<a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/110.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/110.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/111.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/111.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/113.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/113.jpg" height="100"></a> <a href="https://ewwgene.github.io/projects/Slit-Scan_01_ALGORITHM/115.jpg"><img src="/projects/Slit-Scan_01_ALGORITHM/115.jpg" height="100"></a> 
 <br>  
-
-https://github.com/ewwgene/Slit-Scan/blob/main/115.jpg
-
 **Overview**  
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography) 
 <br><br>
