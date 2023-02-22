@@ -1,5 +1,6 @@
 
 ## Slit-Scan_01-ALGORITHM. _WINTER-2019.12._
+<br>
 
 ![Slit-Scan_01-ALGORITHM](/100.jpg)
 
