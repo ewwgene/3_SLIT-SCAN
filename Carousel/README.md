@@ -1,6 +1,6 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
-## [/Slit-Scan_01-ALGORITHM. _WINTER-2019.12._](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM)
+### [Slit-Scan_01-ALGORITHM. — _DESIGN SERIES._](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM)
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/100.jpg)
 <a id="110"></a> ![110.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/110.jpg)
 <a id="111"></a> ![111.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/111.jpg)
