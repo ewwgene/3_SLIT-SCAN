@@ -11,7 +11,7 @@
 <a id="306m"></a> ![306.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Making/306.jpg)
 <a id="307m"></a> ![307.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Making/307.jpg)
 <a id="309m"></a> ![309.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Making/309.jpg)
-<a id="400h250m"></a> ![400h250.gif](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Making/400h250.gif)
+<a id="400m"></a> ![400.gif](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Making/400.gif)
 <a id="304"></a> ![304.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/304.jpg)
 <a id="305"></a> ![305.jpg](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/305.jpg)
 
