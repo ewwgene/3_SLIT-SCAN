@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### Slit-Scan_01-ALGORITHM. — _DESIGN SERIES._
+# [ewwgene.github.io /](https://ewwgene.github.io/) Slit-Scan_01-ALGORITHM
+
 [![Slit-Scan_01-ALGORITHM](/100.jpg)](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel)<a id="110" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#110"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#111"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#113"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#115"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/115.jpg" height="66"></a> <a id="text">&#160;</a>
 
 [_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
@@ -17,3 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="304" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#304"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/304.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#305"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/305.jpg" height="66"></a> 
 
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
+
+### [ABOUT/](https://ewwgene.github.io/) 
