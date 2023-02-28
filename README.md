@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io /](https://ewwgene.github.io/) [_PROGRAMMING_ /](https://ewwgene.github.io/PROGRAMMING) Slit-Scan_01-ALGORITHM
 
-[![Slit-Scan_01-ALGORITHM](/100.jpg)](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel)<a id="110" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#110"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#111"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#113"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#115"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/115.jpg" height="66"></a> <a id="text">&#160;</a>
+[![Slit-Scan_01-ALGORITHM](/100.jpg)](https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel)<br> <a id="110" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#110"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/110.jpg" height="66"></a> <a id="111" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#111"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/111.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#113"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#115"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/115.jpg" height="66"></a> <a id="text">&#160;</a>
 
 _`SOLID_PINE_WOOD`_ _`PLASTER`_ 
 
@@ -17,5 +17,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="304" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#304"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/304.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/Carousel/#305"><img src="https://ewwgene.github.io/Slit-Scan_01-ALGORITHM/305.jpg" height="66"></a> 
 
 _`PROGRAMMING`_ _`ALGORITHM`_ 
+
+<br> 
+
 ### [ABOUT /](https://ewwgene.github.io/ABOUT)
 ### [MAIL_TO:](mailto:r0cam@me.com)
