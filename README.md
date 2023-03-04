@@ -5,7 +5,7 @@
 
 
 
-Slit-scan photography - Техника щелевой фотографии — это фотографический и кинематографический процесс, при котором подвижный слайд с прорезанной щелью вставляется между камерой и объектом, который нужно сфотографировать. [WIKI](https://en.wikipedia.org/wiki/Slit-scan_photography)
+_Slit-scan photography_ — Техника щелевой фотографии - это фотографический и кинематографический процесс, при котором подвижный слайд с прорезанной щелью вставляется между камерой и объектом, который нужно сфотографировать. [WIKI](https://en.wikipedia.org/wiki/Slit-scan_photography)
 
 ### Making — _WINTER-2019.12._
 <a id="303m" href="https://ewwgene.github.io/Slit-Scan/Carousel/#303m"><img src="https://ewwgene.github.io/Slit-Scan/Making/303.jpg" height="66"></a> <a id="305m" href="https://ewwgene.github.io/Slit-Scan/Carousel/#305m"><img src="https://ewwgene.github.io/Slit-Scan/Making/305.jpg" height="66"></a> <a id="306m" href="https://ewwgene.github.io/Slit-Scan/Carousel/#306m"><img src="https://ewwgene.github.io/Slit-Scan/Making/306.jpg" height="66"></a> <a id="307m" href="https://ewwgene.github.io/Slit-Scan/Carousel/#307m"><img src="https://ewwgene.github.io/Slit-Scan/Making/307.jpg" height="66"></a> <a id="309m" href="https://ewwgene.github.io/Slit-Scan/Carousel/#309m"><img src="https://ewwgene.github.io/Slit-Scan/Making/309.jpg" height="66"></a> <a id="400m" href="https://ewwgene.github.io/Slit-Scan/Carousel/#400m"><img src="https://ewwgene.github.io/Slit-Scan/Making/400.gif" height="66"></a>  
